@@ -6,10 +6,8 @@
 
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades](#funcionalidades)
-* [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
 
 # Descrição do Projeto
 Projeto desenvolvido na IDE Eclipse, sendo utilizado a linguagem JAVA. Foi criado um conversor de moedas e temperaturas
@@ -47,8 +45,14 @@ utilizando a biblioteca Java Swing.
 ✔️ Conversão de Kelvin para Celsius
 
 ✔️ Conversão de Kelvin para Farenheit
+
+# Tecnologias utilizadas
+
+✔️ IDE Eclipse
+
+✔️ Biblioteca Java Swing
   
-# Pessoas desenvolvedoras do projeto 
+# Pessoas Desenvolvedoras do Projeto 
 Nilton Junior
 
 
