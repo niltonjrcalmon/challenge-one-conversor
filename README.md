@@ -10,6 +10,8 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
 # Descrição do Projeto
+![menu-conversor de moeda e temperatura](https://github.com/niltonjrcalmon/challenge-one-conversor/assets/118994253/ee945c42-5e9c-422e-9b0a-fa9eccec41ee)
+
 Projeto desenvolvido na IDE Eclipse, sendo utilizado a linguagem JAVA. Foi criado um conversor de moedas e temperaturas
 utilizando a biblioteca Java Swing.
 
