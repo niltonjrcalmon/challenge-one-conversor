@@ -52,7 +52,7 @@ utilizando a biblioteca Java Swing.
 
 ✔️ Biblioteca Java Swing
   
-# Pessoas Desenvolvedoras do Projeto 
+# Pessoas Desenvolvedoras 
 Nilton Junior
 
 
