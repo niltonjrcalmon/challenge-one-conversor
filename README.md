@@ -5,6 +5,7 @@
 # Tópicos
 
 * [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)  
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
@@ -14,6 +15,10 @@
 
 Projeto desenvolvido na IDE Eclipse, sendo utilizado a linguagem JAVA. Foi criado um conversor de moedas e temperaturas
 utilizando a biblioteca Java Swing.
+
+# Status do Projeto 
+
+✔️ Concluído 
 
 # Funcionalidades
 ✔️ Conversão de Dollar para Real
